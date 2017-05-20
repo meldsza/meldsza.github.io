@@ -21,4 +21,4 @@ It has :
 And so much more.....
 
 
-<a href="/laravel/introduction" class="next" style="float: left;">Previous &raquo;</a><a href="/laravel/setting-up" class="next" style="float: right;">Next &raquo;</a>
+<a href="/laravel/introduction" class="next" style="float: left;">&laquo; Previous</a><a href="/laravel/setting-up" class="next" style="float: right;">Next &raquo;</a>
