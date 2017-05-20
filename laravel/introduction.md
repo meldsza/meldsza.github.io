@@ -5,3 +5,5 @@ Like they say, the best way to learn is to be pratical with it and hence my jour
 
 
 <a href="/laravel/what_is_laravel" class="next" style="float: right;">Next &raquo;</a>
+
+
