@@ -19,3 +19,6 @@ It has :
 - [Collections with Loadlash style functions](https://laravel.com/docs/5.4/collections).
 - [CRSF protection](https://laravel.com/docs/5.4/csrf).  
 And so much more.....
+
+
+<a href="/laravel/introduction" class="next" style="float: left;">Previous &raquo;</a><a href="/laravel/setting-up" class="next" style="float: right;">Next &raquo;</a>
