@@ -3,4 +3,5 @@ title: Welcome
 layout: post
 ---
 
-# Welcome to my blob
+# Hi
+I am Melroy Neil D'souza, an aspiring to-be developer.
