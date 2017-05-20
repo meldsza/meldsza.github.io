@@ -17,5 +17,5 @@ It has :
 - [Task Schedulling](https://laravel.com/docs/5.4/scheduling).
 - [Mail Templates](https://laravel.com/docs/5.4/mail).
 - [Collections with Loadlash style functions](https://laravel.com/docs/5.4/collections).
-- [CRSF protection](https://laravel.com/docs/5.4/csrf).
+- [CRSF protection](https://laravel.com/docs/5.4/csrf).  
 And so much more.....
