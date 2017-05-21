@@ -1,8 +1,4 @@
-{% for post in site.posts %}
 
-    <h2>post.title</h2>
-    <div class="content">
-        {{ post.content }}
-    </div>
-
+{% for post in paginator.posts %}
+    {% include tile.html %}
 {% endfor %}
