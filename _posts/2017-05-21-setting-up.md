@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting Up
+title: 1.3 Setting Up
 category: laravel
 date: 2017-05-21 17:25:00
 ---
