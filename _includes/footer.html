@@ -6,5 +6,5 @@
 {% else if page.previous and page.previous.categories contains page.category %}
 
   <a href="{{ page.previous.url }}" style="float: right;">Previous Post <br>
-   {{page.next.title}}</a>
+   {{page.previous.title}}</a>
 {% endif %}
