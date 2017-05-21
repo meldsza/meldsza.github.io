@@ -21,3 +21,5 @@ google: "https://plus.google.com/+MelroyDsouzashj"
 
 # Google Site Analytics
 google_analytics: UA-99588187-1
+gems:
+  - jekyll-sitemap
