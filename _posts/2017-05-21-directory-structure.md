@@ -2,7 +2,7 @@
 layout: post
 title: Directory Structure
 category: laravel
-date: 2017-05-21 17:16:00
+date: 2017-05-21 17:30:00
 ---
 Before we actually start developing, we need to be familiar with our directory structure so that we dont have to keep searching for the files we want to customize.
 
