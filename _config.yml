@@ -17,6 +17,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://meldsza.github.io/" # the base hostname & protocol for your site
 github_username:  meldsza
+facebook: https://www.facebook.com/melroydsza
+google+: https://plus.google.com/+MelroyDsouzashj
 
 # Google Site Analytics
 google_analytics: UA-99588187-1
