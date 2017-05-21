@@ -1,9 +1,10 @@
 {% if page.next and page.next.categories contains page.category %}
- <span class="align-right">
-  <a href="{{ page.next.url }}" s>Next Post</a>
- </span>
+  <a href="{{ page.next.url }}" style="float: right;">Next Post
+   {{page.next.title}}
+</a>
+
 {% else if page.previous and page.previous.categories contains page.category %}
-<span class="align-left">
-  <a href="{{ page.previous.url }}">Previous Post</a>
- </span>
+
+  <a href="{{ page.previous.url }}" style="float: right;">Previous Post
+   {{page.next.title}}</a>
 {% endif %}
