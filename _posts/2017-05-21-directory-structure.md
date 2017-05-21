@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Directory Structure
+title: 1.4 Directory Structure
 category: laravel
 date: 2017-05-21 17:30:00
 ---
