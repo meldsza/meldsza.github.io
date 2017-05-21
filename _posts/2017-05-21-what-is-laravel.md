@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Laravel
+title: 1.2 About Laravel
 category: laravel
 date: 2017-05-21 13:50:00
 ---
