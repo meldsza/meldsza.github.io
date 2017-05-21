@@ -2,7 +2,7 @@
 
   <a href="{{ page.next.url }}">Next Post</a>
 
-{% else if page.previous and page.previous.categories contains "blog" %}
+{% else if page.previous and page.previous.categories contains page.category %}
 
   <a href="{{ page.previous.url }}">Previous Post</a>
 
