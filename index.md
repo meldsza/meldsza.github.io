@@ -1,6 +1,7 @@
-{% for post in site.posts %}
-
-    <h2>{{post.title}}</h2>
-    <code>{{ post.content }}</code>
-
-{% endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
