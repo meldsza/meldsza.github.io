@@ -1,5 +1,9 @@
-{% include laravel_nav.html %}
-# What is laravel?
+---
+layout: post
+title: About Laravel
+category: laravel
+date: 2017-05-21 13:50:00
+---
 Laravel is an [MVC Web Application Framework](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) written in [PHP](http://php.net/manual/en/intro-whatis.php).
 
 # Why laravel?
