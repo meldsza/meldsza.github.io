@@ -2,7 +2,7 @@
 layout: post
 title: Setting Up
 category: laravel
-date: 2017-05-21 13:50:00
+date: 2017-05-21 05:25:00
 ---
 ### Requirements  
 The Laravel framework has a few system requirements. You could use [Laravel Homestead](https://laravel.com/docs/5.4/homestead) or manually satisfy the below requirements
