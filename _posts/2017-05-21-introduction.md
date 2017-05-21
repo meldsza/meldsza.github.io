@@ -1,4 +1,9 @@
-{% include laravel_nav.html %}
+---
+layout: post
+title: Welcome to the Laravel Blog
+category: laravel
+date: 2017-05-21 13:47:00
+---
 # Welcome to the laravel blog
 I started to learn laravel on the recommendation of a friend and found it to be great. The loadlash style functions and ease of use is what makes this MVC frameworks one of the best MVC frameworks in the world. It has redesigned my outlook on php which i once thought as confusing and not worth my time. 
 
