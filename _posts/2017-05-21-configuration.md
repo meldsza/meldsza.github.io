@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Configuration
+title: 1.6 Configuration
 category: laravel
 date: 2017-05-21 17:50:00
 ---
