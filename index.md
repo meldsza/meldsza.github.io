@@ -1,7 +1,11 @@
-
+---
+layout: page
+title: 'Home'
+permalink: /
+---
 {% for post in site.posts %}
 
-##    {{post.title}}
+    <h2>{{post.title}}</h2>
     <div class="content">
         {{ post.content }}
     </div>
