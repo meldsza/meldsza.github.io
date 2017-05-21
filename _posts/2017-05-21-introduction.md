@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to the Laravel Blog
+title: 1.1 Welcome to the Laravel Blog
 category: laravel
 date: 2017-05-21 13:47:00
 ---
