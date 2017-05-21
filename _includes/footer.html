@@ -1,10 +1,10 @@
 {% if page.next and page.next.categories contains page.category %}
-  <a href="{{ page.next.url }}" style="float: right;">Next Post <br>
+  <a href="{{ page.next.url }}" style="float: right;">Next Post &raquo;<br>
    {{page.next.title}}
 </a>
 {% endif %}
 {% if page.previous and page.previous.categories contains page.category %}
 
-  <a href="{{ page.previous.url }}" style="float: left;">Previous Post <br>
+  <a href="{{ page.previous.url }}" style="float: left;">&laquo; Previous Post <br>
    {{page.previous.title}}</a>
 {% endif %}
