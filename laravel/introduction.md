@@ -3,7 +3,7 @@
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <a href="/laravel/introduction">Introduction</a>
-  <a href="/laravel/what-is-laravel">What is laravel</a>
+  <a href="laravel/what_is_laravel">What is laravel</a>
   <a href="/laravel/setting-up">Setting up</a>
   <a href="/laravel/controller">Controller</a>
 </div>
