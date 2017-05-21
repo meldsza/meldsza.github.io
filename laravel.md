@@ -11,9 +11,6 @@ title: Laravel
         {{ post.title }}
       </a>
     </h3>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
     <!--{{ post.content }}-->
   </div>
   {% endfor %}
