@@ -1,4 +1,12 @@
-<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
+</div>
 
 <script>
 function openNav() {
@@ -9,6 +17,7 @@ function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
 }
 </script>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span> 
 # Welcome to the laravel blog
 I started to learn laravel on the recommendation of a friend and found it to be great. The loadlash style functions and ease of use is what makes this MVC frameworks one of the best MVC frameworks in the world. It has redesigned my outlook on php which i once thought as confusing and not worth my time. 
 
