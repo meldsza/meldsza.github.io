@@ -7,11 +7,8 @@ title: Laravel
   {% for post in site.categories.laravel reversed %}
   <div class="post">
     <h3 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </h3>
-    <!--{{ post.content }}-->
   </div>
   {% endfor %}
 </div>
